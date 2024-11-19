@@ -29,6 +29,3 @@ Este projeto está aberto a contribuições! Se você tem materiais úteis, suge
 
 Dúvidas ou sugestões? Entre em contato!
 
----
-
-🛡️ *
